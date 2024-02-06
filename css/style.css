@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, verdana;
+    font-family: "Arial", "Verdana";
     background-color: #000000; 
     color: #FFFFFF; 
     margin: 20px;
@@ -25,9 +25,9 @@ p {
 
 img {
     width: 250px;
-    margin: auto;
     display: block;
-    border: 10px dashed #FFFFFF;
+    margin: auto;
+    border: dashed 10px #FFFFFF;
 }
 
 div {
